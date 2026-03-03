@@ -1,0 +1,756 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>
+      NeoTime AI — Atendimento e Agendamento com Inteligência Artificial
+    </title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    <!-- Navigation and hero section -->
+    <header id="hero">
+      <div class="particles-container" id="particles-js"></div>
+      <nav class="nav">
+        <div class="logo">
+          <a href="#hero">NeoTime AI</a>
+        </div>
+        <input type="checkbox" id="menu-toggle" />
+        <label for="menu-toggle" class="menu-icon">
+          <span class="bar"></span>
+          <span class="bar"></span>
+          <span class="bar"></span>
+        </label>
+        <ul class="nav-links">
+          <li><a href="#solucao">Solução</a></li>
+          <li><a href="#beneficios">Benefícios</a></li>
+          <li><a href="#processo">Como Funciona</a></li>
+          <li><a href="#contato">Contato</a></li>
+        </ul>
+      </nav>
+
+      <div class="hero-inner">
+        <div class="hero-text">
+          <h1>Atendimento e agendamento com IA para vender mais e melhor</h1>
+
+          <div class="hero-subtitle">
+            <span class="year-badge">2026</span>
+            <span>Especialistas em IA para Empresas</span>
+          </div>
+
+          <div class="hero-tags">
+            <span class="hero-tag">Respostas mais rápidas</span>
+            <span class="hero-tag">Atendimento automatizado com IA</span>
+          </div>
+
+          <p>
+            Pare de perder vendas por demora ou desorganização. Implemente uma
+            IA que atende em segundos e transforma conversas em agendamentos
+            reais.
+          </p>
+
+          <div class="hero-divider"></div>
+
+          <div class="hero-buttons">
+            <a href="#contato" class="btn-primary">SOLICITAR DIAGNÓSTICO</a>
+            <a href="#contato" class="btn-secondary"
+              >Falar com especialista <i class="fas fa-arrow-right"></i
+            ></a>
+          </div>
+        </div>
+
+        <div class="hero-image">
+          <div class="glow-orb var-1"></div>
+          <div class="glow-orb var-2"></div>
+
+          <div class="ai-mockup-wrapper">
+            <div class="glass-panel main-panel">
+              <div class="panel-header">
+                <div class="dots"><span></span><span></span><span></span></div>
+                <div class="panel-title">NeoTime AI Assistant</div>
+              </div>
+
+              <div class="chat-flow">
+                <div class="msg user-msg animate-up delay-1">
+                  Olá, gostaria de saber sobre os serviços da empresa.
+                </div>
+                <div class="msg ai-msg animate-up delay-2">
+                  <div class="ai-avatar"><i class="fas fa-robot"></i></div>
+                  <div class="ai-bubble">
+                    Olá! Que bom falar com você. Sou a assistente inteligente da
+                    empresa. Pelo que vejo, você tem interesse em nossos
+                    serviços. Qual o melhor horário para agendarmos uma rápida
+                    demonstração?
+                  </div>
+                </div>
+                <div class="msg user-msg animate-up delay-3">
+                  Pode ser amanhã às 14h.
+                </div>
+                <div class="msg ai-msg success-msg animate-up delay-4">
+                  <div class="ai-avatar">
+                    <i class="fas fa-check-circle"></i>
+                  </div>
+                  <div class="ai-bubble highlight">
+                    Perfeito! Agendamento confirmado para amanhã às 14h. Nossa
+                    equipe técnica te aguarda na reunião. 🚀
+                  </div>
+                </div>
+              </div>
+
+              <div class="panel-footer">
+                <div class="typing-indicator">
+                  <span>IA organizando agenda e qualificando lead</span>
+                  <div class="typing-dots">
+                    <span></span><span></span><span></span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Abstract floating elements -->
+            <div class="floating-element el-1">
+              <i class="fas fa-bolt"></i>
+              <div class="el-text">
+                <span>Velocidade</span>
+                <strong><i class="fas fa-arrow-up"></i> 300%</strong>
+              </div>
+            </div>
+
+            <div class="floating-element el-2">
+              <i class="fas fa-calendar-check"></i>
+              <div class="el-text">
+                <span>Conversão</span>
+                <strong><i class="fas fa-arrow-up"></i> 45%</strong>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="scroll-indicator">
+        <div class="scroll-line"></div>
+        <i class="fas fa-chevron-down"></i>
+      </div>
+    </header>
+
+    <!-- Problemas que resolvemos (Desafios e Impacto Integrados) -->
+    <section id="problemas" class="section">
+      <div class="container split">
+        <div class="text-side">
+          <h2 class="gradient-text animate-on-scroll">
+            Demorar para responder custa mais caro do que parece
+          </h2>
+          <p
+            class="subtitle animate-on-scroll"
+            style="margin-bottom: 2rem; font-size: 1.1rem; opacity: 0.9"
+          >
+            Muitas empresas acreditam que o problema está na falta de leads. Mas
+            na prática, boa parte das oportunidades se perde depois que o
+            contato chega.
+          </p>
+          <ul class="list">
+            <li class="animate-on-scroll">
+              <i class="fas fa-hourglass-half"></i>
+              O lead entra em contato e não recebe resposta na velocidade que
+              espera
+            </li>
+            <li class="animate-on-scroll">
+              <i class="fas fa-comments"></i>
+              A equipe demora, se sobrecarrega ou responde sem padrão
+            </li>
+            <li class="animate-on-scroll">
+              <i class="fas fa-redo"></i>
+              Perguntas repetidas consomem tempo da operação
+            </li>
+            <li class="animate-on-scroll">
+              <i class="fas fa-mobile-alt"></i>
+              Conversas se perdem no WhatsApp ou no Instagram
+            </li>
+            <li class="animate-on-scroll">
+              <i class="fas fa-calendar-times"></i>
+              O processo de agendamento vira um gargalo
+            </li>
+            <li class="animate-on-scroll">
+              <i class="fas fa-snowflake"></i>
+              O cliente esfria antes mesmo de avançar
+            </li>
+            <li class="animate-on-scroll">
+              <i class="fas fa-chart-line"></i>
+              A empresa gera interesse, mas não consegue conduzir bem a conversa
+              até a conversão
+            </li>
+          </ul>
+          <p
+            class="animate-on-scroll"
+            style="
+              margin-top: 2rem;
+              font-weight: 600;
+              color: var(--accent-color);
+            "
+          >
+            Quando o atendimento é lento, desorganizado ou inconsistente, a
+            empresa perde vendas sem perceber.
+          </p>
+        </div>
+        <div class="image-side visual-stack-container">
+          <!-- Abstract CSS visualization of the process -->
+          <div class="entry-node pulse-green delay-1">
+            <i class="fab fa-whatsapp"></i>
+          </div>
+
+          <div class="processing-core delay-2">
+            <div class="core-ring"></div>
+            <i class="fas fa-robot"></i>
+            <span>IA NeoTime</span>
+          </div>
+
+          <div class="ordered-pipeline">
+            <div class="pipeline-item success-glow slide-in-1">
+              <div class="icon-box"><i class="fas fa-bolt"></i></div>
+              <div class="info-box">
+                <span class="title">Lead Qualificado</span>
+                <span class="time">Atendimento imediato (0s)</span>
+              </div>
+            </div>
+            <div class="pipeline-item success-glow slide-in-2">
+              <div class="icon-box"><i class="fas fa-calendar-check"></i></div>
+              <div class="info-box">
+                <span class="title">Agendamento Configurado</span>
+                <span class="time">Sincronizado na agenda</span>
+              </div>
+            </div>
+            <div class="pipeline-item success-glow slide-in-3">
+              <div class="icon-box"><i class="fas fa-chart-line"></i></div>
+              <div class="info-box">
+                <span class="title">Lead Aquecido</span>
+                <span class="time">Equipe notificada para fechamento</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Transição: O Impacto Real -->
+    <section class="section" style="min-height: auto; padding: 5rem 0">
+      <div
+        class="container text-center"
+        style="max-width: 800px; margin: 0 auto; text-align: center"
+      >
+        <h2
+          class="animate-on-scroll"
+          style="font-size: 2rem; margin-bottom: 1.5rem"
+        >
+          O problema não é só responder. É responder rápido, conduzir bem e
+          levar até o agendamento.
+        </h2>
+        <p
+          class="animate-on-scroll"
+          style="font-size: 1.1rem; opacity: 0.8; margin-bottom: 1.5rem"
+        >
+          Hoje, quem entra em contato quer rapidez, clareza e facilidade. Se a
+          resposta demora, gera atrito. Se o atendimento não conduz, a conversa
+          morre. Se o agendamento não flui, a venda trava.
+        </p>
+        <p
+          class="animate-on-scroll"
+          style="
+            font-size: 1.2rem;
+            font-weight: 500;
+            color: var(--accent-color);
+          "
+        >
+          Sua empresa não precisa depender de atendimento manual para cada etapa
+          inicial. Ela precisa de um processo inteligente que atenda,
+          qualifique, organize e conduza cada contato com mais eficiência.
+        </p>
+      </div>
+    </section>
+
+    <!-- Entregáveis / O que fazemos (Solução) -->
+    <section id="solucao" class="section">
+      <div class="container">
+        <h2 class="gradient-text animate-on-scroll">
+          O que a NeoTime AI implementa
+        </h2>
+        <p class="subtitle animate-on-scroll">
+          Uma estrutura de atendimento e agendamento com IA para sua empresa
+          responder melhor, organizar o fluxo comercial e transformar mais
+          contatos em oportunidades reais.
+        </p>
+        <div class="features-grid">
+          <div class="feature animate-on-scroll">
+            <div class="icon"><i class="fab fa-whatsapp"></i></div>
+            <h3>Atendimento com IA no WhatsApp</h3>
+            <p>
+              A Inteligência Artificial responde, atende, qualifica e conduz a
+              conversa com velocidade e consistência.
+            </p>
+          </div>
+          <div class="feature animate-on-scroll">
+            <div class="icon"><i class="fab fa-instagram"></i></div>
+            <h3>Fluxo de entrada pelo Instagram</h3>
+            <p>
+              Automações com palavra-chave, comentário e DM para levar o
+              interessado para o WhatsApp e acelerar o avançar da conversa.
+            </p>
+          </div>
+          <div class="feature animate-on-scroll">
+            <div class="icon"><i class="fas fa-calendar-check"></i></div>
+            <h3>Agendamento organizado</h3>
+            <p>
+              O processo conduz o lead ou cliente até o agendamento com mais
+              clareza, menos atrito e mais controle.
+            </p>
+          </div>
+          <div class="feature animate-on-scroll">
+            <div class="icon"><i class="fas fa-list-ul"></i></div>
+            <h3>Lembretes e organização</h3>
+            <p>
+              As informações do atendimento podem ser registradas em uma base
+              simples ou integradas ao processo atual da empresa, quando
+              possível.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Benefícios -->
+    <section id="beneficios" class="section">
+      <div class="container">
+        <h2
+          class="animate-on-scroll"
+          style="text-align: center; font-size: 2.5rem; margin-bottom: 3rem"
+        >
+          O que muda quando sua empresa para de
+          <span class="gradient-text">depender de atendimento improvisado</span>
+        </h2>
+        <div class="reasons-grid">
+          <div class="reason animate-on-scroll">
+            <div class="reason-icon"><i class="fas fa-tachometer-alt"></i></div>
+            <h3>Mais velocidade</h3>
+            <p>
+              O lead ou cliente recebe retorno rápido e não fica esperando a
+              equipe manualmente para tudo.
+            </p>
+          </div>
+          <div class="reason animate-on-scroll">
+            <div class="reason-icon"><i class="fas fa-shield-alt"></i></div>
+            <h3>Menos perdas</h3>
+            <p>
+              Sua empresa reduz o número de contatos que esfriam por demora,
+              falha de resposta ou falta de condução.
+            </p>
+          </div>
+          <div class="reason animate-on-scroll">
+            <div class="reason-icon"><i class="fas fa-sitemap"></i></div>
+            <h3>Mais organização</h3>
+            <p>
+              Atendimento, qualificação e agendamento deixam de acontecer de
+              forma solta e seguem uma estrutura.
+            </p>
+          </div>
+          <div class="reason animate-on-scroll">
+            <div class="reason-icon"><i class="fas fa-user-friends"></i></div>
+            <h3>Menos sobrecarga</h3>
+            <p>
+              A IA assume a parte inicial e operacional do fluxo, enquanto o
+              time foca no que realmente exige atenção humana.
+            </p>
+          </div>
+          <div
+            class="reason animate-on-scroll"
+            style="grid-column: 1 / -1; max-width: 500px; margin: 0 auto"
+          >
+            <div class="reason-icon"><i class="fas fa-chart-line"></i></div>
+            <h3>Mais previsibilidade comercial</h3>
+            <p>
+              Sua empresa passa a ter um processo mais claro para transformar
+              contato em agendamento.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Transição: Por que isso importa -->
+    <section
+      class="section"
+      style="min-height: auto; padding: 5rem 0; background: var(--dark-bg)"
+    >
+      <div
+        class="container text-center"
+        style="max-width: 800px; margin: 0 auto; text-align: center"
+      >
+        <h2
+          class="animate-on-scroll"
+          style="font-size: 2rem; margin-bottom: 1.5rem"
+        >
+          Velocidade e processo impactam diretamente nas vendas
+        </h2>
+        <p
+          class="animate-on-scroll"
+          style="font-size: 1.1rem; opacity: 0.8; margin-bottom: 1.5rem"
+        >
+          Não basta atrair interesse. Se a empresa não responde rápido, não
+          organiza a conversa e não conduz o cliente até o próximo passo, o
+          resultado cai.
+        </p>
+        <div
+          class="animate-on-scroll"
+          style="
+            text-align: left;
+            background: var(--card-bg);
+            padding: 2rem;
+            border-radius: 12px;
+            border: 1px solid var(--card-border);
+            margin-bottom: 1.5rem;
+            backdrop-filter: var(--glass-blur);
+          "
+        >
+          <p style="margin-bottom: 1rem; font-weight: 600">
+            Empresas perdem vendas todos os dias por motivos simples:
+          </p>
+          <ul style="list-style: none; padding-left: 1rem; opacity: 0.9">
+            <li>
+              <i
+                class="fas fa-times"
+                style="color: #ff4757; margin-right: 10px"
+              ></i>
+              resposta tardia
+            </li>
+            <li>
+              <i
+                class="fas fa-times"
+                style="color: #ff4757; margin-right: 10px"
+              ></i>
+              atendimento inconsistente
+            </li>
+            <li>
+              <i
+                class="fas fa-times"
+                style="color: #ff4757; margin-right: 10px"
+              ></i>
+              falta de follow-up
+            </li>
+            <li>
+              <i
+                class="fas fa-times"
+                style="color: #ff4757; margin-right: 10px"
+              ></i>
+              agendamento mal conduzido
+            </li>
+          </ul>
+        </div>
+        <p
+          class="animate-on-scroll"
+          style="
+            font-size: 1.2rem;
+            font-weight: 500;
+            color: var(--accent-color);
+          "
+        >
+          A NeoTime AI entra justamente nesse ponto: organizar o atendimento
+          para que sua empresa responda melhor, conduza melhor e converta
+          melhor.
+        </p>
+      </div>
+    </section>
+
+    <!-- Diferenciais / Por que NeoTime AI? -->
+    <section id="diferenciais" class="section">
+      <div class="container">
+        <h2 class="gradient-text animate-on-scroll">Por que a NeoTime AI</h2>
+        <div class="reasons-grid">
+          <div class="reason animate-on-scroll">
+            <div class="reason-icon"><i class="fas fa-bullseye"></i></div>
+            <h3>Foco absoluto</h3>
+            <p>
+              Foco em atendimento e agendamento, sem complicação desnecessária.
+            </p>
+          </div>
+          <div class="reason animate-on-scroll">
+            <div class="reason-icon"><i class="fas fa-layer-group"></i></div>
+            <h3>Estrutura sólida</h3>
+            <p>
+              Estrutura pensada para reduzir demora, falhas e perda de
+              oportunidades.
+            </p>
+          </div>
+          <div class="reason animate-on-scroll">
+            <div class="reason-icon"><i class="fas fa-puzzle-piece"></i></div>
+            <h3>Implementação Prática</h3>
+            <p>Implementação prática e alinhada ao processo real da empresa.</p>
+          </div>
+          <div class="reason animate-on-scroll">
+            <div class="reason-icon"><i class="fas fa-bolt"></i></div>
+            <h3>Velocidade e Organização</h3>
+            <p>
+              Solução para empresas que querem mais organização e mais
+              velocidade.
+            </p>
+          </div>
+          <div
+            class="reason animate-on-scroll"
+            style="grid-column: 1 / -1; max-width: 500px; margin: 0 auto"
+          >
+            <div class="reason-icon"><i class="fas fa-headset"></i></div>
+            <h3>Clareza em Vendas</h3>
+            <p>Atendimento com IA sem perder clareza e condução comercial.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Processo -->
+    <section id="processo" class="section">
+      <div class="container">
+        <h2 class="gradient-text animate-on-scroll">
+          Como funciona a implementação
+        </h2>
+        <p class="subtitle animate-on-scroll">
+          Um processo simples e transparente para revolucionar sua operação em
+          poucas semanas.
+        </p>
+        <div class="timeline">
+          <div class="step animate-on-scroll">
+            <div class="circle"><i class="fas fa-search"></i></div>
+            <h3>1. Diagnóstico</h3>
+            <p>
+              Entendemos como sua empresa atende hoje, onde estão os gargalos e
+              como o agendamento funciona na prática.
+            </p>
+          </div>
+          <div class="step animate-on-scroll">
+            <div class="circle"><i class="fas fa-project-diagram"></i></div>
+            <h3>2. Estruturação</h3>
+            <p>
+              Definimos a lógica do atendimento, qualificação, agendamento e
+              organização das informações.
+            </p>
+          </div>
+          <div class="step animate-on-scroll">
+            <div class="circle"><i class="fas fa-cogs"></i></div>
+            <h3>3. Implementação</h3>
+            <p>
+              Configuramos os fluxos de WhatsApp, Instagram e a base operacional
+              necessária para a solução funcionar.
+            </p>
+          </div>
+          <div class="step animate-on-scroll">
+            <div class="circle"><i class="fas fa-check-double"></i></div>
+            <h3>4. Testes e ajustes</h3>
+            <p>
+              Validamos a estrutura com cenários reais e refinamos o que for
+              necessário.
+            </p>
+          </div>
+          <div class="step animate-on-scroll">
+            <div class="circle"><i class="fas fa-rocket"></i></div>
+            <h3>5. Ativação</h3>
+            <p>
+              A operação entra no ar com acompanhamento inicial para garantir
+              funcionamento e estabilidade.
+            </p>
+          </div>
+        </div>
+        <div class="process-cta animate-on-scroll">
+          <h3>
+            Sua empresa não precisa continuar perdendo oportunidades no
+            atendimento
+          </h3>
+          <p style="margin-bottom: 2rem; opacity: 0.9">
+            Implemente uma estrutura de atendimento e agendamento com IA para
+            responder mais rápido, organizar melhor sua operação e transformar
+            mais contatos em agendamentos reais.
+          </p>
+          <div
+            class="hero-buttons"
+            style="display: flex; justify-content: center; gap: 1.5rem"
+          >
+            <a href="#contato" class="btn-primary">Solicitar diagnóstico</a>
+            <a href="#contato" class="btn-secondary"
+              >Falar com especialista <i class="fas fa-arrow-right"></i
+            ></a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Contato -->
+    <section id="contato" class="section">
+      <div class="container">
+        <div class="contact-container">
+          <div class="contact-text">
+            <h2>Solicite um diagnóstico da sua empresa</h2>
+            <p>
+              Preencha os dados abaixo e entraremos em contato para entender seu
+              processo atual de atendimento e mostrar como a implementação pode
+              funcionar no seu caso.
+            </p>
+
+            <div class="contact-info">
+              <div class="contact-item">
+                <i class="fas fa-phone"></i>
+                <span>+55 61 8171-1528</span>
+              </div>
+              <div class="contact-item">
+                <i class="fas fa-envelope"></i>
+                <span>gabriel@neotimeai.com</span>
+              </div>
+              <div class="contact-item">
+                <i class="fas fa-map-marker-alt"></i>
+                <span>Brasília, DF</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="contact-form">
+            <form id="contactForm">
+              <div class="form-group">
+                <input
+                  type="text"
+                  name="nome"
+                  placeholder="Nome completo"
+                  required
+                />
+                <i class="fas fa-user"></i>
+              </div>
+              <div class="form-group">
+                <input
+                  type="email"
+                  name="email"
+                  placeholder="E-mail"
+                  required
+                />
+                <i class="fas fa-envelope"></i>
+              </div>
+              <div class="form-group">
+                <input
+                  type="tel"
+                  name="telefone"
+                  placeholder="WhatsApp"
+                  required
+                />
+                <i class="fab fa-whatsapp"></i>
+              </div>
+              <div class="form-group">
+                <input
+                  type="text"
+                  name="empresa"
+                  placeholder="Nome da empresa"
+                  required
+                />
+                <i class="fas fa-building"></i>
+              </div>
+              <div class="form-group">
+                <input
+                  type="text"
+                  name="segmento"
+                  placeholder="Segmento da empresa"
+                  required
+                />
+                <i class="fas fa-briefcase"></i>
+              </div>
+              <div class="form-group">
+                <select name="faturamento" required>
+                  <option value="" disabled selected>
+                    Faturamento mensal da empresa
+                  </option>
+                  <option value="Abaixo de 50 mil">Até R$ 50 mil</option>
+                  <option value="Entre 50 e 200 mil">
+                    Entre R$ 50 mil e R$ 200 mil
+                  </option>
+                  <option value="Entre 200 e 500 mil">
+                    Entre R$ 200 mil e R$ 500 mil
+                  </option>
+                  <option value="Entre 500 mil a 1 milhão">
+                    Entre R$ 500 mil e R$ 1 milhão
+                  </option>
+                  <option value="Acima de 1 milhão">
+                    Acima de R$ 1 milhão
+                  </option>
+                </select>
+                <i class="fas fa-money-bill-wave"></i>
+              </div>
+              <div class="form-group">
+                <textarea
+                  name="mensagem"
+                  rows="4"
+                  placeholder="Principal desafio atual no atendimento/agendamento"
+                ></textarea>
+                <i class="fas fa-comment"></i>
+              </div>
+              <button type="submit" class="form-btn">
+                <span class="btn-text">Solicitar diagnóstico</span>
+                <div class="btn-loader">
+                  <i class="fas fa-spinner fa-spin"></i>
+                </div>
+              </button>
+
+              <div id="successMessage" class="message success">
+                Solicitação enviada com sucesso! Entraremos em contato em breve.
+              </div>
+
+              <div id="errorMessage" class="message error">
+                Ocorreu um erro ao enviar sua solicitação. Tente novamente.
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="container footer-content">
+        <div class="footer-section">
+          <h4>NeoTime AI</h4>
+          <p>Atendimento e agendamento com IA para empresas.</p>
+          <div class="social-links">
+            <a href="#"><i class="fab fa-linkedin"></i></a>
+            <a href="#"><i class="fab fa-instagram"></i></a>
+            <a href="#"><i class="fab fa-facebook"></i></a>
+          </div>
+        </div>
+        <div class="footer-section">
+          <h4>Links Rápidos</h4>
+          <ul>
+            <li><a href="#solucao">Solução</a></li>
+            <li><a href="#beneficios">Benefícios</a></li>
+            <li><a href="#processo">Como Funciona</a></li>
+            <li><a href="#contato">Contato</a></li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <h4>Contato</h4>
+          <ul>
+            <li><i class="fas fa-envelope"></i> gabriel@neotimeai.com</li>
+            <li><i class="fas fa-phone"></i> +55 61 8171-1528</li>
+            <li><i class="fas fa-map-marker-alt"></i> Brasília, DF</li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>
+          © <span id="year"></span> NeoTime AI. Todos os direitos reservados.
+        </p>
+      </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>

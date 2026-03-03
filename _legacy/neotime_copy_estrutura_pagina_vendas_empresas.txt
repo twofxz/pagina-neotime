@@ -1,0 +1,291 @@
+NEOTIME AI - COPY E ESTRUTURA DA PAGINA DE VENDAS
+
+DIRECAO DE POSICIONAMENTO
+
+A pagina nao deve girar em torno de nichos.
+A pagina deve posicionar a NeoTime AI como uma empresa que implementa sistemas de atendimento e agendamento com Inteligencia Artificial para empresas.
+
+A comunicacao deve bater em 3 pontos centrais:
+1. O impacto de demorar para responder leads e clientes
+2. O prejuizo de nao ter um processo claro de atendimento e agendamento
+3. O valor de ter uma IA que responde rapido, qualifica, organiza e conduz para o agendamento
+
+A mensagem principal nao e "IA para saude".
+A mensagem principal e:
+ATENDIMENTO E AGENDAMENTO COM IA PARA EMPRESAS
+
+TOM DA COPY
+
+- Direto
+- Comercial
+- Claro
+- Sem tecnicismo desnecessario
+- Focado em dor, impacto e resultado
+- Mostrando organizacao, velocidade e conversao
+
+ESTRUTURA DA PAGINA
+
+1. HEADER
+
+Logo: NeoTime AI
+
+Menu:
+- Solucao
+- Beneficios
+- Como Funciona
+- Contato
+
+Botao no header:
+- Solicitar diagnostico
+
+2. HERO SECTION
+
+TITULO PRINCIPAL
+
+Atendimento e agendamento com IA para empresas que querem responder mais rapido e vender melhor
+
+SUBTITULO
+
+Sua empresa nao precisa perder oportunidades por demora no atendimento, falhas no processo comercial ou falta de organizacao no agendamento.
+Implemente uma estrutura com Inteligencia Artificial para responder leads e clientes em tempo recorde, conduzir conversas com mais eficiencia e transformar contatos em agendamentos reais.
+
+BOTOES
+- Solicitar diagnostico
+- Falar com especialista
+
+APOIO VISUAL / FRASES CURTAS
+- Respostas mais rapidas
+- Atendimento automatizado com IA
+- Mais organizacao no agendamento
+- Menos oportunidades perdidas
+
+3. SECAO DE DOR
+
+TITULO
+
+Demorar para responder custa mais caro do que parece
+
+TEXTO DE ABERTURA
+
+Muitas empresas acreditam que o problema esta na falta de leads.
+Mas na pratica, boa parte das oportunidades se perde depois que o contato chega.
+
+BULLETS DE DOR
+
+- O lead entra em contato e nao recebe resposta na velocidade que espera
+- A equipe demora, se sobrecarrega ou responde sem padrao
+- Perguntas repetidas consomem tempo da operacao
+- Conversas se perdem no WhatsApp ou no Instagram
+- O processo de agendamento vira um gargalo
+- O cliente esfria antes mesmo de avancar
+- A empresa gera interesse, mas nao consegue conduzir bem a conversa ate a conversao
+
+FRASE DE FECHAMENTO DA SECAO
+
+Quando o atendimento e lento, desorganizado ou inconsistente, a empresa perde vendas sem perceber.
+
+4. SECAO DE IMPACTO
+
+TITULO
+
+O problema nao e so responder. E responder rapido, conduzir bem e levar ate o agendamento.
+
+TEXTO
+
+Hoje, quem entra em contato quer rapidez, clareza e facilidade.
+Se a resposta demora, gera atrito.
+Se o atendimento nao conduz, a conversa morre.
+Se o agendamento nao flui, a venda trava.
+
+Sua empresa nao precisa depender de atendimento manual para cada etapa inicial.
+Ela precisa de um processo inteligente que atenda, qualifique, organize e conduza cada contato com mais eficiencia.
+
+5. SECAO DE SOLUCAO
+
+TITULO
+
+O que a NeoTime AI implementa
+
+SUBTITULO
+
+Uma estrutura de atendimento e agendamento com IA para sua empresa responder melhor, organizar o fluxo comercial e transformar mais contatos em oportunidades reais.
+
+BLOCOS DA SOLUCAO
+
+1. Atendimento com IA no WhatsApp
+A Inteligencia Artificial responde, atende, qualifica e conduz a conversa com velocidade e consistencia.
+
+2. Fluxo de entrada pelo Instagram
+Automacoes com palavra-chave, comentario e DM para levar o interessado para o WhatsApp e acelerar o avancar da conversa.
+
+3. Agendamento organizado
+O processo conduz o lead ou cliente ate o agendamento com mais clareza, menos atrito e mais controle.
+
+4. Lembretes e organizacao
+As informacoes do atendimento podem ser registradas em uma base simples ou integradas ao processo atual da empresa, quando possivel.
+
+6. SECAO DE BENEFICIOS
+
+TITULO
+
+O que muda quando sua empresa para de depender de atendimento improvisado
+
+BLOCOS DE BENEFICIO
+
+1. Mais velocidade no atendimento
+O lead ou cliente recebe retorno rapido e nao fica esperando a equipe manualmente para tudo.
+
+2. Menos oportunidades perdidas
+Sua empresa reduz o numero de contatos que esfriam por demora, falha de resposta ou falta de conducao.
+
+3. Mais organizacao no processo
+Atendimento, qualificacao e agendamento deixam de acontecer de forma solta e passam a seguir uma estrutura.
+
+4. Menos sobrecarga na equipe
+A IA assume a parte inicial e operacional do fluxo, enquanto o time foca no que realmente exige atencao humana.
+
+5. Mais previsibilidade comercial
+Sua empresa passa a ter um processo mais claro para transformar contato em agendamento.
+
+7. SECAO "POR QUE ISSO IMPORTA"
+
+TITULO
+
+Velocidade e processo impactam diretamente nas vendas
+
+TEXTO
+
+Nao basta atrair interesse.
+Se a empresa nao responde rapido, nao organiza a conversa e nao conduz o cliente ate o proximo passo, o resultado cai.
+
+Empresas perdem vendas todos os dias por motivos simples:
+- resposta tardia
+- atendimento inconsistente
+- falta de follow-up
+- agendamento mal conduzido
+
+A NeoTime AI entra justamente nesse ponto: organizar o atendimento para que sua empresa responda melhor, conduza melhor e converta melhor.
+
+8. SECAO "COMO FUNCIONA"
+
+TITULO
+
+Como funciona a implementacao
+
+PASSOS
+
+1. Diagnostico
+Entendemos como sua empresa atende hoje, onde estao os gargalos e como o agendamento funciona na pratica.
+
+2. Estruturacao
+Definimos a logica do atendimento, qualificacao, agendamento e organizacao das informacoes.
+
+3. Implementacao
+Configuramos os fluxos de WhatsApp, Instagram e a base operacional necessaria para a solucao funcionar.
+
+4. Testes e ajustes
+Validamos a estrutura com cenarios reais e refinamos o que for necessario.
+
+5. Ativacao
+A operacao entra no ar com acompanhamento inicial para garantir funcionamento e estabilidade.
+
+9. SECAO DE DIFERENCIAL
+
+TITULO
+
+Por que a NeoTime AI
+
+BULLETS
+
+- Foco em atendimento e agendamento, sem complicacao desnecessaria
+- Estrutura pensada para reduzir demora, falhas e perda de oportunidades
+- Implementacao pratica e alinhada ao processo real da empresa
+- Solucao para empresas que querem mais organizacao e mais velocidade
+- Atendimento com IA sem perder clareza e conducao comercial
+
+10. CTA FINAL
+
+TITULO
+
+Sua empresa nao precisa continuar perdendo oportunidades no atendimento
+
+TEXTO
+
+Implemente uma estrutura de atendimento e agendamento com IA para responder mais rapido, organizar melhor sua operacao e transformar mais contatos em agendamentos reais.
+
+BOTOES
+- Solicitar diagnostico
+- Falar com especialista
+
+11. FORMULARIO
+
+TITULO
+
+Solicite um diagnostico da sua empresa
+
+TEXTO
+
+Preencha os dados abaixo e entraremos em contato para entender seu processo atual de atendimento e mostrar como a implementacao pode funcionar no seu caso.
+
+CAMPOS
+- Nome completo
+- WhatsApp
+- E-mail
+- Nome da empresa
+- Segmento da empresa
+- Quantidade media de leads por mes
+- Principal desafio atual no atendimento/agendamento
+
+BOTAO
+- Solicitar diagnostico
+
+12. RODAPE
+
+NeoTime AI
+Atendimento e agendamento com IA para empresas.
+
+Links:
+- Solucao
+- Beneficios
+- Como Funciona
+- Contato
+
+Contato:
+- contato@neotime.ai
+- +55 61 8171-1528
+- Brasilia, DF
+
+© 2026 NeoTime AI. Todos os direitos reservados.
+
+OBSERVACOES ESTRATEGICAS IMPORTANTES
+
+1. Nao citar clinicas de estetica e odonto na pagina principal
+A pagina deve vender para empresas em geral, com foco no problema de atendimento e agendamento.
+
+2. Nichos podem aparecer depois
+Se quiser, voce pode usar isso em:
+- estudos de caso
+- criativos
+- prospeccao
+- propostas comerciais
+- abordagem comercial
+
+Mas nao na promessa central da pagina.
+
+3. O centro da copy deve ser:
+- rapidez
+- organizacao
+- conversao
+- menos perda de leads
+- mais eficiencia no atendimento
+
+4. Evitar na pagina principal:
+- excesso de termos tecnicos
+- promessas muito amplas
+- falar de muitos servicos ao mesmo tempo
+- parecer software house
+- parecer agencia generica de IA
+
+5. A pagina deve vender uma unica ideia:
+Sua empresa esta perdendo oportunidades porque o atendimento e o agendamento nao estao bem estruturados.
+A NeoTime AI implementa essa estrutura com Inteligencia Artificial.
